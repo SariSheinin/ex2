@@ -2,7 +2,7 @@
 {
     public enum Preference
     {
-        A, B, C, D, E
+       a,b,c,d,e
     }
     public class Taskk
     {
